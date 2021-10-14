@@ -12,6 +12,6 @@ public:
         nums[2] = 11;
         nums[3] = 15;
         target = nums[0] + nums[1];
-        return [ 0, 1 ];
+        cout << nums[0, 1] << endl;
     }
 };
